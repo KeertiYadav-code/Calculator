@@ -10,7 +10,7 @@ A simple and modern calculator built using **HTML and CSS** with a clean UI desi
 ---
 
 ## 📸 Preview
-![Calculator Screenshot](screenshot(213).png)
+![Calculator Screenshot](Screenshot(213).png)
 
 ---
 
