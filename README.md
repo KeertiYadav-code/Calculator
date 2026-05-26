@@ -31,7 +31,7 @@ A simple and modern calculator built using **HTML and CSS** with a clean UI desi
 
 ## 📁 Project Structure
 Calculator/
-│── project.html
+│── index.html
 │── styles.css
 │── README.md
 
