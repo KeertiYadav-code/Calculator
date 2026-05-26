@@ -1,0 +1,140 @@
+.container{
+    background-color:black;
+
+   max-width: 400px;
+    overflow: hidden;
+    border-radius: 20px;
+    height: auto;
+    padding: 10px;
+ box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+     transition: 0.3s ease;
+}
+
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    color: aliceblue;
+    background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1c1c1c);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.display{
+    color: #f5f5f5;
+    height: 130px;
+    background-color:#494242;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 2rem;
+    text-align: right;
+   
+    
+}
+
+.symbol{
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+  
+    gap: 10px;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    gap: 10px;
+}
+
+.second{
+    display: flex;
+    justify-content:space-between;
+    padding: 5px;
+     gap: 10px;
+}
+
+.third{
+    display: flex;
+    justify-content:space-between;
+    padding: 5px;
+     gap: 10px;
+}
+
+.fourth{
+    display: flex;
+    justify-content:space-between;
+    padding: 5px;
+     gap: 10px;
+}
+
+.fifth{
+    display: flex;
+    justify-content:space-between;
+    padding: 5px;
+     gap: 10px;
+    
+    
+
+}
+button{
+    height: 60px;
+    width: 60px;
+
+    border-radius:20px;
+    background-color:#333;
+    color: white;
+    font-size: 25px;
+}
+
+button:hover{
+    background: orange;
+    opacity:0.8;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.zero{
+    width: 140px;
+}
+
+.op{
+    background: #ff9500;
+    color: white;
+}
+
+.special{
+    background: #6d6d3e;
+}
+
+.main{
+    padding: 10px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.fonty{
+    font-family:'Dancing Script', cursive;
+    font-size: 2rem;
+    margin: 10px;
+    
+}
+
+.title{
+    font-size: 3rem;
+    align-items: center;
+}
+
+.one{
+    margin-bottom: 20px;
+}
+
